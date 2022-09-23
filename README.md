@@ -1,9 +1,11 @@
 # Random Quote Machine
 
 This project was created for learning purposes from Freecodecamp.org organisation.
-Details: (https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
+Details: https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine
 
-You can check out the project here: (https://mariaklo.github.io/random-quote-react/)
+You can check out the project here: https://mariaklo.github.io/random-quote-react/
+
+## Screenshots
 
 # Getting Started with Create React App
 
