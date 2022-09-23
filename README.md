@@ -7,6 +7,10 @@ You can check out the project here: https://mariaklo.github.io/random-quote-reac
 
 ## Screenshots
 
+<img src="https://user-images.githubusercontent.com/56316185/191982937-a0555cb4-83fc-4e36-9842-947462104786.png"/>
+<img src="https://user-images.githubusercontent.com/56316185/191982965-2f01de0c-6abe-4cad-8bfa-290613017b50.png"/>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
