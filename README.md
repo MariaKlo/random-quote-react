@@ -3,8 +3,6 @@
 This project was created for learning purposes from Freecodecamp.org organisation.
 Details: https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine
 
-You can check out the project here: https://mariaklo.github.io/random-quote-react/
-
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/56316185/191982937-a0555cb4-83fc-4e36-9842-947462104786.png"/>
